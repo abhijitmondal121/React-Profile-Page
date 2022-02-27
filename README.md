@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+<img src = "img/s1.png" alt = "Image">
+<img src = "img/s2.png" alt = "Image">
+<img src = "img/s3.png" alt = "Image">
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
